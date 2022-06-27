@@ -235,8 +235,11 @@ Initialized empty Git repository in /home/user/Desktop/git_exercise/.git/
 Если вы сделали изменения в вашем удаленном репозитории, другие пользователи могут скачать изменения при помощи команды pull.
 
 > git pull origin master
+> 
 > From https://ссылка_на_проект
+> 
 > branch master -> FETCH_HEAD
+> 
 > Already up-to-date.
 
 Так как новых коммитов с тех пор, как мы склонировали себе проект, не было, никаких изменений доступных для скачивания нет.
